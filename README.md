@@ -57,6 +57,7 @@
 * K-fold Cross Validation
 * Parameter Tuning 
 * Grid Search
+* Stacking
 
 ## Week 8: An introduction to Boosting
 [*Link to Week 8's Jupyter Notebook*](https://github.com/kabirnagpal/SoA-ML-14/blob/master/week%208.ipynb)
